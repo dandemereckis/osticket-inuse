@@ -54,3 +54,82 @@ As the adminstrator I will sort through the tickets and assign priority levels a
 <img src="https://i.imgur.com/CD67DRn.jpg" height="80%" width="80%" alt="All Tickets Assigned"/>
 </p>
 <br />
+<hr>
+<p>
+As the adminstrator I will sort through the tickets and assign priority levels as well as assign specific agents to address the tickets.
+</p>
+<p>
+<img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
+</p>
+<p>
+<img src="https://i.imgur.com/CD67DRn.jpg" height="80%" width="80%" alt="All Tickets Assigned"/>
+</p>
+<br />
+<p>
+As the adminstrator I will sort through the tickets and assign priority levels as well as assign specific agents to address the tickets.
+</p>
+<p>
+<img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
+</p>
+<p>
+<img src="https://i.imgur.com/CD67DRn.jpg" height="80%" width="80%" alt="All Tickets Assigned"/>
+</p>
+<br />
+<p>
+As the adminstrator I will sort through the tickets and assign priority levels as well as assign specific agents to address the tickets.
+</p>
+<p>
+<img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
+</p>
+<p>
+<img src="https://i.imgur.com/CD67DRn.jpg" height="80%" width="80%" alt="All Tickets Assigned"/>
+</p>
+<br />
+<hr>
+<p>
+Now I will log out as the administrator and log in as John Doe to see open tickets assigned to him.  John sees the trouble ticket and is able to resolve the issue by updating the permissions for the user.  John replies to the ticket and closes it as resolved.
+</p>
+<p>
+<img src="https://i.imgur.com/eUpTt2E.jpg" height="80%" width="80%" alt="John's Open Tickets"/>
+</p>
+<p>
+<img src="https://i.imgur.com/X990DrI.jpg" height="80%" width="80%" alt="John Responding to Ticket"/>
+</p>
+<br />
+<hr>
+<p>
+Now I will log out as the administrator and log in as John Doe to see open tickets assigned to him.  John sees the trouble ticket and is able to resolve the issue by updating the permissions for the user.  John replies to the ticket and closes it as resolved.
+</p>
+<p>
+<img src="https://i.imgur.com/eUpTt2E.jpg" height="80%" width="80%" alt="John's Open Tickets"/>
+</p>
+<p>
+<img src="https://i.imgur.com/X990DrI.jpg" height="80%" width="80%" alt="John Responding to Ticket"/>
+</p>
+<br />
+<hr>
+<p>
+Now I will log out as the administrator and log in as John Doe to see open tickets assigned to him.  John sees the trouble ticket and is able to resolve the issue by updating the permissions for the user.  John replies to the ticket and closes it as resolved.
+</p>
+<p>
+<img src="https://i.imgur.com/eUpTt2E.jpg" height="80%" width="80%" alt="John's Open Tickets"/>
+</p>
+<p>
+<img src="https://i.imgur.com/X990DrI.jpg" height="80%" width="80%" alt="John Responding to Ticket"/>
+</p>
+<br />
+<hr>
+<p>
+Now I will log in as Jane Doe and view her open tickets.  She is able to reset a password and resolve a ticket.  She responds to a user that she needs to further investigate the issue with the monitor and leave the ticket open.
+</p>
+<p>
+<img src="https://i.imgur.com/JQzwOt7.jpg" height="80%" width="80%" alt="Jane's Open Tickets"/>
+</p>
+<p>
+<img src="https://i.imgur.com/DkY4vgF.jpg" height="80%" width="80%" alt="Jane Responding to Ticket"/>
+</p>
+<p>
+<img src="https://i.imgur.com/5tQkRvw.jpg" height="80%" width="80%" alt="Jane Responding to Ticket"/>
+</p>
+<br />
+<hr>
