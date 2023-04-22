@@ -51,6 +51,6 @@ As the adminstrator I will sort through the tickets and assign priority levels a
 <img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
 </p>
 <p>
-<img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
+<img src="https://i.imgur.com/CD67DRn.jpg" height="80%" width="80%" alt="All Tickets Assigned"/>
 </p>
 <br />
