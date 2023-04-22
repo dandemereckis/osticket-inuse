@@ -31,14 +31,18 @@ To begin we will take the role of an end user and submit trouble tickets.
 <p>
 <img src="https://i.imgur.com/SH88hcO.jpg" height="80%" width="80%" alt="End User Main Page"/>
 </p>
+<p>
+<img src="https://i.imgur.com/UZUOivH.jpg" height="80%" width="80%" alt="Submitting a Ticket"/>
+</p>
 <br />
+<hr>
+<p>
+I've added multiple trouble tickets so we can start reviewing an assigning them to agents.  Below is our Open Tickets list.
+</p>
+<p>
+<img src="https://i.imgur.com/O9DgK4y.jpg" height="80%" width="80%" alt="Open Tickets"/>
+</p>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
 <p>
