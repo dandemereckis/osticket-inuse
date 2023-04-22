@@ -42,13 +42,15 @@ I've added multiple trouble tickets so we can start reviewing an assigning them 
 <p>
 <img src="https://i.imgur.com/O9DgK4y.jpg" height="80%" width="80%" alt="Open Tickets"/>
 </p>
-
 <br />
-
+<hr>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+As the adminstrator I will sort through the tickets and assign priority levels as well as assign specific agents to address the tickets.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
+</p>
+<p>
+<img src="https://i.imgur.com/Fbrhshk.jpg" height="80%" width="80%" alt="Assigning Ticket to John Doe"/>
 </p>
 <br />
