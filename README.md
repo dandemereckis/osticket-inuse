@@ -26,10 +26,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-To begin we will take the role of an end user and submit trouble tickets.  <a href="http://localhost/osTicket/">Go to end user page</a>
+To begin we will take the role of an end user and submit trouble tickets.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SH88hcO.jpg" height="80%" width="80%" alt="End User Main Page"/>
 </p>
 <br />
 
